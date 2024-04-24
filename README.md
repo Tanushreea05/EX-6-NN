@@ -17,6 +17,7 @@ Step 9:Evaluate the model's accuracy by comparing the predicted labels (y_pred) 
 Step 10:Print the accuracy of the model.<BR>
 Step 11:Plot the error convergence during training using plt.plot() and plt.show().<BR>
 <H3>Program: </H3>
+
 ```
 import numpy as np
 import pandas as pd
@@ -74,9 +75,6 @@ print(classification_rep)
 <H3>Output:</H3>
 
 
-![Screenshot 2024-04-17 153937](https://github.com/AnandhamoorthyKarthikeyan/EX-6-NN/assets/119475998/a68f4a4f-713e-4bf7-ab90-72b9c3a80be9)
-
-![Screenshot 2024-04-17 153945](https://github.com/AnandhamoorthyKarthikeyan/EX-6-NN/assets/119475998/f03562c4-2a8d-41d0-a743-08e8ef7bd58e)
 
 
 <H3>Results:</H3>
